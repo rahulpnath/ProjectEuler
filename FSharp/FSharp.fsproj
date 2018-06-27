@@ -57,6 +57,7 @@
     <Compile Include="Lesson3_LargestPrime.fs" />
     <Compile Include="Lesson4_LargestPalindrome.fs" />
     <Compile Include="Lesson5_SmallestMultiple.fs" />
+    <Compile Include="Lesson6_SumSquareDifference.fs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
